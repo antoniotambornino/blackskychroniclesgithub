@@ -1,0 +1,9 @@
+.row{outline:1px solid red;}
+.column{outline:1px solid blue;}
+
+@media screen (max-width: 600px) {
+.column{
+  background-color: lightblue;
+}
+}
+header nav li {list-style: none; margin-left:0;}
